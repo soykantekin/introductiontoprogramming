@@ -1,4 +1,4 @@
-#include "helpers.c"
+#include "helpers.h"
 #include <math.h>
 
 // GRAYSCALE
